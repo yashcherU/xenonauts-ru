@@ -2,7 +2,9 @@
 
 
 ИЗМЕНЕНИЯ:
+
 2024-07-28
+
 gameconfig.xml: исправлена ошибка, когда присвоена одна и та же клавиша полям GCSelectPreviousSoldier и GCFireModeBurst.
 
 gcloading_tips.xml: улучшение перевода.
